@@ -1,0 +1,10 @@
+com/ciscotraining/taskpro/task/repository/TaskRepository.class
+com/ciscotraining/taskpro/task/exception/GlobalExceptionHandler.class
+com/ciscotraining/taskpro/task/security/JwtAuthenticationFilter.class
+com/ciscotraining/taskpro/task/entity/Task.class
+com/ciscotraining/taskpro/task/service/JwtService.class
+com/ciscotraining/taskpro/task/entity/Task$TaskBuilder.class
+com/ciscotraining/taskpro/task/TaskServiceApplication.class
+com/ciscotraining/taskpro/task/config/SecurityConfig.class
+com/ciscotraining/taskpro/task/controller/TaskController.class
+com/ciscotraining/taskpro/task/service/TaskService.class

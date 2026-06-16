@@ -1,0 +1,9 @@
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/TaskServiceApplication.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/config/SecurityConfig.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/controller/TaskController.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/entity/Task.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/exception/GlobalExceptionHandler.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/repository/TaskRepository.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/security/JwtAuthenticationFilter.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/service/JwtService.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/task-service/src/main/java/com/ciscotraining/taskpro/task/service/TaskService.java

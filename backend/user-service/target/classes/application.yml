@@ -1,0 +1,33 @@
+# User Service Configuration
+spring:
+  application:
+    name: user-service
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/taskpro_users}
+      database: ${MONGODB_DATABASE:taskpro_users}
+      auto-index-creation: true
+
+server:
+  port: ${USER_SERVICE_PORT:8081}
+
+# JWT Configuration
+jwt:
+  secret: ${JWT_SECRET:replaceWithALongRandomSecretKeyForProductionUseAtLeast256Bits}
+  expiration: ${JWT_EXPIRATION:900000}
+
+# Actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: when-authorized
+
+# Logging
+logging:
+  level:
+    com.ciscotraining.taskpro.user: DEBUG
+

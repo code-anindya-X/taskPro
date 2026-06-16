@@ -1,0 +1,9 @@
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/dto/ApiErrorResponse.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/dto/AuthResponse.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/dto/LoginRequest.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/dto/SignupRequest.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/dto/TaskRequest.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/dto/TaskResponse.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/exception/AccessDeniedException.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/exception/DuplicateResourceException.java
+/Users/anbag/Library/CloudStorage/OneDrive-Cisco/SimpliLearn/task-pro/backend/common-dto/src/main/java/com/ciscotraining/taskpro/common/exception/ResourceNotFoundException.java

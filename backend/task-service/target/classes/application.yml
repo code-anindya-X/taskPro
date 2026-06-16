@@ -1,0 +1,40 @@
+# Task Service Configuration
+spring:
+  application:
+    name: task-service
+  datasource:
+    url: ${POSTGRES_URL:jdbc:postgresql://localhost:5432/taskpro_tasks}
+    username: ${POSTGRES_USER:taskpro}
+    password: ${POSTGRES_PASSWORD:taskpro}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+server:
+  port: ${TASK_SERVICE_PORT:8082}
+
+# JWT Configuration (same secret as user-service for local validation)
+jwt:
+  secret: ${JWT_SECRET:replaceWithALongRandomSecretKeyForProductionUseAtLeast256Bits}
+
+# Actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: when-authorized
+
+# Logging
+logging:
+  level:
+    com.ciscotraining.taskpro.task: DEBUG
+

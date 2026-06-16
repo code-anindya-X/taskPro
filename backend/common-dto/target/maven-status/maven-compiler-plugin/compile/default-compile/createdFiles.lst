@@ -1,0 +1,17 @@
+com/ciscotraining/taskpro/common/dto/ApiErrorResponse$FieldError.class
+com/ciscotraining/taskpro/common/exception/AccessDeniedException.class
+com/ciscotraining/taskpro/common/dto/TaskRequest.class
+com/ciscotraining/taskpro/common/dto/AuthResponse$UserSummary.class
+com/ciscotraining/taskpro/common/dto/TaskResponse.class
+com/ciscotraining/taskpro/common/exception/DuplicateResourceException.class
+com/ciscotraining/taskpro/common/dto/ApiErrorResponse$FieldError$FieldErrorBuilder.class
+com/ciscotraining/taskpro/common/dto/TaskRequest$TaskRequestBuilder.class
+com/ciscotraining/taskpro/common/dto/TaskResponse$TaskResponseBuilder.class
+com/ciscotraining/taskpro/common/dto/AuthResponse$AuthResponseBuilder.class
+com/ciscotraining/taskpro/common/dto/LoginRequest.class
+com/ciscotraining/taskpro/common/dto/ApiErrorResponse.class
+com/ciscotraining/taskpro/common/exception/ResourceNotFoundException.class
+com/ciscotraining/taskpro/common/dto/ApiErrorResponse$ApiErrorResponseBuilder.class
+com/ciscotraining/taskpro/common/dto/AuthResponse$UserSummary$UserSummaryBuilder.class
+com/ciscotraining/taskpro/common/dto/AuthResponse.class
+com/ciscotraining/taskpro/common/dto/SignupRequest.class
